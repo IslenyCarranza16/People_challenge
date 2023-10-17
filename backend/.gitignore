@@ -202,4 +202,5 @@ $RECYCLE.BIN/
 
 postgres_data
 
+node_modules
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,windows
