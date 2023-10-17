@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Api for challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "eslint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@hapi/boom": "^10.0.1",
+    "boom": "^7.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "faker": "^6.6.6",
+    "i": "^0.3.7",
+    "npm": "^10.2.0"
+  }
+}
